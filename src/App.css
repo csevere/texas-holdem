@@ -1,0 +1,30 @@
+.the-table{
+  background: green;
+}
+
+.card{
+  min-height: 249px;
+  min-width: 179px;
+  margin-bottom: 10px; 
+
+}
+
+
+.the-pot{
+  font-size: 60px;
+  text-alight: center;
+  color: white;
+ 
+}
+
+.card img{
+  width: 100%; 
+}
+
+.buttons button{
+  margin-bottom: 30px; 
+}
+
+.poker-hand{
+  margin-bottom:-28px;
+}
